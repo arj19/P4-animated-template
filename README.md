@@ -1,1 +1,1 @@
-# P4-animated-template
+# P6-animated-template
